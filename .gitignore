@@ -1,0 +1,5 @@
+app/.git
+backend/.git
+frontend/.git
+
+node_modules
